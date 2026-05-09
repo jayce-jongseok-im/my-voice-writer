@@ -1,0 +1,14 @@
+{
+  "name": "my-voice-writer-local",
+  "owner": {
+    "name": "제제"
+  },
+  "description": "내 문체로 글쓰기 도구 (로컬 테스트용)",
+  "plugins": [
+    {
+      "name": "my-voice-writer",
+      "source": "./my-voice-writer",
+      "description": "내 문체로 카드뉴스/에세이/SNS/이메일 글쓰기"
+    }
+  ]
+}
